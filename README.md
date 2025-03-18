@@ -23,19 +23,31 @@ It includes various analytical techniques to track changes over time, measure gr
 
 
 🛠️ Tools & Functions Used:
+
 SQL Functions: SUM(), COUNT(), AVG(), CASE, LAG()
+
 Window Functions: SUM() OVER(), AVG() OVER()
+
 Date Functions: DATEPART(), DATETRUNC(), FORMAT()
+
 Grouping & Partitioning: GROUP BY, PARTITION BY
 
 
+
 📂 Structure:
+
 📁 SQL_Scripts/ – Contains SQL scripts for analysis and report generation
+
 📁 Data/ – Sample data used for the analysis
+
 📁 Reports/ – Output reports and insights
 
 
+
 🚀 Insights:
+
 Identified top-performing products and customer segments
+
 Tracked yearly and monthly growth rates
+
 Uncovered seasonality and long-term trends
